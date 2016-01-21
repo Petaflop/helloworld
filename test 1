@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <malloc.h>
+
+void main(){
+int a=1;
+int b=2;
+printf("\tEste programa es una prueba de mi primer uso de Github!\n");
+printf("\nEl valor de la variable A es: %d", a);
+printf("\nEl valor de la variable B es: %d", b);
+printf("\nEl valor de la suma de las dos variables es: %d", a+b);
+
+}
